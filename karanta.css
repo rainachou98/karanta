@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+}
+.picture{
+    background:linear-gradient(rgba(109, 117, 153, 0.267),rgba(92, 103, 155, 0.267) ) ,url(image/fon2.jpg)center/cover no-repeat fixed  rgba(0, 0, 0, 0.562) !important;
+ }
+
+
+
+.card{
+   width: -5rem;
+}
+
+.font{
+    background-color: black!important;
+}
+
+.mac{
+    margin: auto;
+}
+
+.be{
+    background-color: rgb(243, 241, 241);
+}
+
+.reyna:hover{
+       background-color: blue;
+       color: wheat;
+}
+.karatou{
+    background-color:rgba(38, 38, 243, 0.897);
+    color: wheat;
+    padding: 5px;
+    border-radius: 100%;
+}
